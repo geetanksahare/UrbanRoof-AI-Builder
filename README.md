@@ -53,4 +53,3 @@ UrbanRoof AI Builder automates the tedious process of manual data entry for prop
 * **Batch Processing:** Plans to implement multi-property analysis for enterprise-scale auditing.
 
 ---
-**Developed as part of an Engineering Student Assignment for UrbanRoof.**
