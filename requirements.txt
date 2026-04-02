@@ -3,3 +3,4 @@ pymupdf
 google-generativeai
 fpdf
 pillow
+reportlab
